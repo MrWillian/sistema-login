@@ -1,3 +1,6 @@
+Tutorial do Canal do Youtube: Will Dev
+Link do Vídeo: https://www.youtube.com/watch?v=LjJFu6Y6MrU&ab_channel=WillDev
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
